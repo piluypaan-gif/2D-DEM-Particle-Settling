@@ -1,0 +1,12 @@
+﻿test,value,passed
+free_fall_position_error_m,5.8860000000438006e-05,True
+free_fall_velocity_error_m_s,9.992007221626409e-15,True
+elastic_rebound_speed,1.000010677736217,True
+damping_rebound_monotonic,0.21094629110772453,True
+no_negative_rebound,0.21094629110772453,True
+two_ball_momentum_error_kg_m_s,0.0,True
+two_ball_damping_energy_loss_J,0.009829519824599413,True
+shelf_support_relative_error,6.102329281650984e-13,True
+stationary_net_force_N,2.8160807019617096e-13,True
+released_vertical_acceleration_error_m_s2,0.0,True
+no_shelf_horizontal_force_N,0.0,True

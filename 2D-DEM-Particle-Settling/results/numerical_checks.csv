@@ -1,0 +1,6 @@
+﻿item,value,limit,passed
+max_energy_difference_over_initial_energy,0.004243056094222397,0.02,True
+final_mean_height_relative_difference,0.0022456028779963087,0.02,True
+peak_kinetic_energy_relative_difference,4.194085860412183e-08,0.02,True
+positive_energy_increment_over_initial_energy,0,0.001,True
+max_overlap_over_diameter,0.022611471985429024,0.05,True

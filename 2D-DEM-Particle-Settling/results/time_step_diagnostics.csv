@@ -1,0 +1,3 @@
+﻿indicator,dt,dt_half,absolute_difference
+time_to_95pct_energy_dissipation_s,0.38,0.38,0.0
+settled_time_below_1e-4_J_s,0.62,0.7200000000000001,0.10000000000000009
